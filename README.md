@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Edgaras Starkutis
+- 👀 I’m interested in HTML and CSS coding and JS programing
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me you estarkutis@yahoo.com
